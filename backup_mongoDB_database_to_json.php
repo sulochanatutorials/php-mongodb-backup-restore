@@ -9,7 +9,7 @@ require_once __DIR__ . '/vendor/autoload.php';
 
 //Initialise Variables
 $database_backup_array = [];
-$database_name = 'apls_callleadgen';
+$database_name = 'YOUR_DATABASE_NAME';
 
 /* 
     [

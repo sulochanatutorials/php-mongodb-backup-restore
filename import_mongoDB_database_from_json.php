@@ -8,7 +8,7 @@
 require_once __DIR__ . '/vendor/autoload.php';
 
 //Initialise Variables
-$database_name = 'apls_callleadgen_new';
+$database_name = 'YOUR_DATABASE_NAME';
 $total_collections =0;
 $total_documents = 0;
 
