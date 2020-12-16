@@ -5,8 +5,8 @@ You can subscribe our channel https://www.youtube.com/sulochanatutorials for mor
 
 # Requirements 
 
-1. MongoDB PHP Drivers installed
-2. MongoDB PHP client library
+1. MongoDB PHP Drivers installed 
+2. MongoDB PHP client library (Use composer update to install library)
 
 # Steps for Backup 
 
