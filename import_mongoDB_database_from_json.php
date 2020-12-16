@@ -24,7 +24,7 @@ $database = $mongodb->{$database_name};
 
 //Read JSON file
 
-$file_name = 'apls_callleadgen_backup_1608101694.json';
+$file_name = 'JSON FILE PATH WILL HERE';
 
 //Read JSON file contents
 $json = file_get_contents($file_name);
